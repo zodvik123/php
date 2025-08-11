@@ -29,9 +29,9 @@ $username3       = ('@'.$username);
  $info            = json_encode($update, JSON_PRETTY_PRINT); 
 $emojid = '❌';
 $emojil = '✅';
-$owner = '<code>@venkypanda82</code>';
-$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @venkypanda82";
-$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @venkypanda82</b>";$eror = "<b>Error ❌</b>";
+$owner = '<code>@Backspace_X</code>';
+$botu = "𝘽𝙊𝙏 𝙐𝙋𝘿𝘼𝙏𝙀𝙎 ↯ @Backspace_X";
+$bota = "<b>|×| 𝘿𝙀𝙑 ↯ @Backspace_X</b>";$eror = "<b>Error ❌</b>";
 
 $dd = "𝗗𝗲𝗰𝗹𝗶𝗻𝗲𝗱 ❌";
 $live = "𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱 ✅";
@@ -87,7 +87,7 @@ $callbackmessage = $update->callback_query->message->text;
 $callbackid = $update->callback_query->id;
 
 $text = $update->message->text;
-$owner = '<code>@venkypanda82</code>';
+$owner = '<code>@Backspace_X</code>';
 
 
 
@@ -638,7 +638,7 @@ if ($cdata2 == "herr") {
 × 𝙎𝙏𝘼𝙏𝙐𝙎 - <code>𝙊𝙉 ✅</code>
 ╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍╍ ╍ </b>
 
-<b>|×| 𝘿𝙀𝙑 </b>- @venkypanda82";
+<b>|×| 𝘿𝙀𝙑 </b>- @Backspace_X";
 
     // Change this to your video URL
     $videoUrl = "https://t.me/pandacc82/3";
